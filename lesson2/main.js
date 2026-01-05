@@ -42,4 +42,6 @@
 
 
 
-let energy = 10
+let energy = 12
+
+let and = 221
