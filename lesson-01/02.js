@@ -13,3 +13,5 @@ while (n <= 10) {
   factorial = factorial * n
   n = n + 1 
 }
+
+  factorial
