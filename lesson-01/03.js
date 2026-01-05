@@ -14,5 +14,3 @@ while (number <= 20) {
 }
 number = number + 1 
 }
-
-sum
